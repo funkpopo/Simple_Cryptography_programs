@@ -1,0 +1,7 @@
+**/.idea/
+**/.vs/
+**/.sln
+**/.vcxproj
+**/.vcxproj*
+.gitattributes
+**/.git/

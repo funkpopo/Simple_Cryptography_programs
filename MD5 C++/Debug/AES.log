@@ -1,0 +1,3 @@
+﻿F:\VisualStudio2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (AES.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MD5.cpp
+  AES.vcxproj -> C:\Users\S\source\repos\AES\Debug\MD5.exe
